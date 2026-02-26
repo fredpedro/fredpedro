@@ -28,9 +28,8 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 # Certifications
-[Harvard CS50 Introduction to Computer Science 2025](https://www.linkedin.com/in/pedro-frederico-423a3b387/overlay/Certifications/76887108/treasury/?profileId=ACoAAF9fJ5sBvxbkUCFu3Uhe4_D8GmxA70hxioU)  
-
-[Harvard CS50 Introduction to Artificial Intelligence with Python 2025](https://www.linkedin.com/in/pedro-frederico-423a3b387/overlay/Certifications/135877958/treasury/?profileId=ACoAAF9fJ5sBvxbkUCFu3Uhe4_D8GmxA70hxioU)
+![Harvard Logo](https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg) [Harvard CS50 Introduction to Computer Science 2025](https://www.linkedin.com/in/pedro-frederico-423a3b387/overlay/Certifications/76887108/treasury/?profileId=ACoAAF9fJ5sBvxbkUCFu3Uhe4_D8GmxA70hxioU)  
+![Harvard Logo](https://upload.wikimedia.org/wikipedia/en/2/29/Harvard_shield_wreath.svg) [Harvard CS50 Introduction to Artificial Intelligence with Python 2025](https://www.linkedin.com/in/pedro-frederico-423a3b387/overlay/Certifications/135877958/treasury/?profileId=ACoAAF9fJ5sBvxbkUCFu3Uhe4_D8GmxA70hxioU)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:cfcfcf,100:e0e0e0&height=160&section=footer"/>
