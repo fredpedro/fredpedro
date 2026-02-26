@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0e0e0,100:cfcfcf&height=160&section=header"/>
 </p>
 
-# Stack
-## 🛠️ Tecnologias e Habilidades
+# 🛠️ Stack
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
